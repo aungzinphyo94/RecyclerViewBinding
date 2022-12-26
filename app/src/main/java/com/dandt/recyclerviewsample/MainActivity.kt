@@ -28,5 +28,4 @@ class MainActivity : AppCompatActivity() {
 
         mainBinding.recyclerList.adapter = nameRecyclerAdapter
     }
-
 }
